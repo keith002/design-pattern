@@ -22,7 +22,7 @@ public abstract class TestPaper {
 
 
     public void testQuestion3(){
-        System.out.println("问题：蓝凤凰致使华山师徒‘桃谷六仙呕吐不止，如果你是大夫，会给他们开沙漠药【】’");
+        System.out.println("问题：蓝凤凰致使华山师徒‘桃谷六仙呕吐不止，如果你是大夫，会给他们开什么药【】’");
         System.out.println("A:阿司匹林");
         System.out.println("B:牛黄解毒片");
         System.out.println("C:氟哌酸");
