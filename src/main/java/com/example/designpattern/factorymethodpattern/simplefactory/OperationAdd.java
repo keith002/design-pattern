@@ -1,4 +1,4 @@
-package com.example.designpattern.factorymethodpattern;
+package com.example.designpattern.factorymethodpattern.simplefactory;
 /**
  * class_name: OperationAdd
  * package: com.example.designpattern.factorymethodpattern

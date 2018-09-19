@@ -1,4 +1,4 @@
-package com.example.designpattern.factorymethodpattern;
+package com.example.designpattern.factorymethodpattern.simplefactory;
 /**
  * class_name: OperationSubtract
  * package: com.example.designpattern.factorymethodpattern
