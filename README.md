@@ -22,3 +22,6 @@
 
 外观模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/facadepattern.png)
+
+建造者模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/builderpattern.png)
