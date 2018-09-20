@@ -16,3 +16,6 @@
 
 原型模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/prototypepattern.png)
+
+模版方法模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/templatepattern.png)
