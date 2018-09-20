@@ -13,3 +13,6 @@
 工厂方法模式Demo UML类图 
 
  ![image](https://github.com/keith002/picture/blob/master/design-pattern/factorymethodpattern.png)
+
+原型模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/prototypepattern.png)
