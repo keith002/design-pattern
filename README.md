@@ -25,3 +25,6 @@
 
 建造者模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/builderpattern.png)
+
+观察者模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/observerpattern.png)
