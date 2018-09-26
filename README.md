@@ -28,3 +28,8 @@
 
 观察者模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/observerpattern.png)
+
+
+抽象工厂模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/abstractfactorypattern.png)
+![image](https://github.com/keith002/picture/blob/master/design-pattern/abstractfactorypattern02.png)
