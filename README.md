@@ -36,3 +36,6 @@
 
 状态模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/statepattern.png)
+
+适配器模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/adapterpattern.png)
