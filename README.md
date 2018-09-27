@@ -39,3 +39,6 @@
 
 适配器模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/adapterpattern.png)
+
+备忘录模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/mementopattern.png)
