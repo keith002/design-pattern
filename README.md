@@ -42,3 +42,6 @@
 
 备忘录模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/mementopattern.png)
+
+组合模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/compositepattern.png)
