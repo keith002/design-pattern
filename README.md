@@ -53,3 +53,6 @@
 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/singletonpattern.png)
 
+桥接模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/bridgepattern.png)
+
