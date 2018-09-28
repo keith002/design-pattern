@@ -59,3 +59,6 @@
 命令模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/commandpattern.png)
 
+职责链模式Demo UML类图 
+![image](https://github.com/keith002/picture/blob/master/design-pattern/chainofresponsibilitypattern.png)
+
