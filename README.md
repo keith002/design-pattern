@@ -48,3 +48,8 @@
 
 迭代器模式Demo UML类图 
 ![image](https://github.com/keith002/picture/blob/master/design-pattern/iteratorpattern.png)
+
+单例模式Demo UML类图 
+
+![image](https://github.com/keith002/picture/blob/master/design-pattern/singletonpattern.png)
+
